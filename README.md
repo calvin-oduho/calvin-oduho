@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DEV-CalvinOduho
+- 👋 Hi, I’m @Calvin-Oduho
 - 👀 I’m interested in Web programming
 - 🌱 I’m currently learning back-end programming
-- 💞️ I’m looking to collaborate on any project really. I'm comfortable with front-end development.
-- 📫 How to reach me ==>[calvin.oduho@gmail.com | DM]
+- 💞️ I’m looking to collaborate on any project. 
+- 📫 Email: calvin.oduho@gmail.com
 
 <!---
 DEV-CalvinOduho/DEV-CalvinOduho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
