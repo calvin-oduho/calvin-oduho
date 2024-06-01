@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Calvin-Oduho
-- 👀 I’m interested in Web programming
-- 🌱 I’m currently learning back-end programming
+- 👋 Hi, I’m Calvin Oduho.
+- 👀 I’m interested in Web programming.
+- 🌱 I’m currently learning back-end programming.
 - 💞️ I’m looking to collaborate on any project. 
 - 📫 Email: calvin.oduho@gmail.com
 
