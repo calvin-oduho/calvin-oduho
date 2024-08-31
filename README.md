@@ -43,7 +43,7 @@ Banff, Canada: Majestic mountains and pristine lakes.
 # 📫 Let's Connect!
 LinkedIn: https://www.linkedin.com/in/calvin-oduho-a739b3254
 
-Twitter: @calvin_possible
+X (Formerly Twitter): @calvin_possible
 
 Portfolio: www.linkedin.com/in/calvin-oduho-a739b3254
 
