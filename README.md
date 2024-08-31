@@ -17,33 +17,47 @@ Version Control: Git and GitHub are my go-tos for code collaboration and version
 
 # 🛠️ My Projects
 Explore some of my recent work here: https://github.com/calvin-oduho?tab=repositories
+
 Feel free to check out the repositories for more details!
 
 # 🌱 Currently Learning
 Advanced TypeScript for better code reliability and maintenance.
+
 Exploring GraphQL for efficient data querying and manipulation.
+
 Diving deeper into advanced Web3 concepts and decentralized finance (DeFi).
 
 # 🌍 When I'm Not Coding
-I'm an avid traveler, always on the lookout for my next adventure. Whether it's hiking through the mountains, exploring vibrant cities, or relaxing on a serene beach, I love discovering new destinations and cultures.
+I'm an avid traveler, always on the lookout for my next adventure. 
+
+Whether it's hiking through the mountains, exploring vibrant cities, or relaxing on a serene beach, I love discovering new destinations and cultures.
 
 Favorite Travel Destinations:
+
 Kyoto, Japan: A perfect blend of tradition and modernity.
+
 Santorini, Greece: Stunning sunsets and beautiful architecture.
+
 Banff, Canada: Majestic mountains and pristine lakes.
 
 # 📫 Let's Connect!
 LinkedIn: https://www.linkedin.com/in/calvin-oduho-a739b3254
+
 Twitter: @calvin_possible
+
 Portfolio: www.linkedin.com/in/calvin-oduho-a739b3254
+
 I'm always open to collaborating on exciting projects or just having a chat about tech, blockchain, travel, or anything in between. Feel free to reach out!
 
 # 🤖 Search Engine Optimization (SEO)
 As a full-stack and blockchain developer, I ensure that my work not only functions perfectly but also ranks well in search engines. I'm well-versed in the best practices for SEO, including:
 
 Optimizing code for performance and speed.
+
 Writing semantic HTML and using appropriate meta tags.
+
 Implementing structured data for better indexing.
+
 Ensuring dApps are accessible and user-friendly.
 
 <!---
